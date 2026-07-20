@@ -1,5 +1,5 @@
 # Базовый адрес сервиса
-URL_SERVICE = "https://5c05c5d7-4e02-4c36-9fb6-dfdf6cef19c6.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://f6c43f13-67ff-4bec-a181-445645d87ff1.serverhub.praktikum-services.ru"
 
 # Путь для создания нового заказа
 CREATE_ORDER_PATH = "/api/v1/orders/"
